@@ -1,4 +1,4 @@
 # khushi-demo
 This is my first git repository.
 <br>
-Author-khushi khatri
+Author-khushi (khushi-demo)
